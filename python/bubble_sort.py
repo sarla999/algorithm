@@ -3,8 +3,7 @@
 # bubble sort python
 
 def bubble_sort():
-	#input_data = [7,5,9,3,6,2,11,8]
-	input_data = [3,2,1]
+	input_data = [7,5,9,3,6,2,11,8]
 	t = 0
 	
 	for index,item in enumerate(input_data,start=0):
